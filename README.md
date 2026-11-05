@@ -24,7 +24,7 @@
 
 ```bash
 # 1. Клонирование репозитория
-git clone <ссылка_на_ваш_репозиторий>
+git clone https://github.com/gakombarov/practice.git
 cd practice
 
 # 2. Сборка Docker-образа
